@@ -1,0 +1,51 @@
+[
+  {
+    "Tipo_Habitacion": "Básica #301",
+    "Responsable": "Juan Mallorca",
+    "Adultos": 2,
+    "Ninos": 0,
+    "Fecha_Salida": "17/06/2025"
+  },
+  {
+    "Tipo_Habitacion": "Básica #315",
+    "Responsable": "Natalia Villalobos",
+    "Adultos": 1,
+    "Ninos": 0,
+    "Fecha_Salida": "20/06/2025"
+  },
+  {
+    "Tipo_Habitacion": "Básica #317",
+    "Responsable": "Matias Rebolledo",
+    "Adultos": 2,
+    "Ninos": 1,
+    "Fecha_Salida": "12/06/2025"
+  },
+  {
+    "Tipo_Habitacion": "Estándar #401",
+    "Responsable": "Andrea Steembecker",
+    "Adultos": 2,
+    "Ninos": 0,
+    "Fecha_Salida": "21/06/2025"
+  },
+  {
+    "Tipo_Habitacion": "Estándar #401",
+    "Responsable": "Francisco Valdebenito",
+    "Adultos": 2,
+    "Ninos": 0,
+    "Fecha_Salida": "14/06/2025"
+  },
+  {
+    "Tipo_Habitacion": "Premium #555",
+    "Responsable": "Camila Díaz",
+    "Adultos": 1,
+    "Ninos": 0,
+    "Fecha_Salida": "17/06/2025"
+  },
+  {
+    "Tipo_Habitacion": "Premium #555",
+    "Responsable": "Andrés Villalobos",
+    "Adultos": 1,
+    "Ninos": 0,
+    "Fecha_Salida": "19/06/2025"
+  }
+]
