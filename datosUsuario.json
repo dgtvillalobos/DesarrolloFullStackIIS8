@@ -1,14 +1,30 @@
 [
   {
-    "id": 1,
-    "nombre": "Juan",
-    "apellido": "Péreaaaaaz",
-    "email": "juan.perez@example.com"
+    "Tipo_Habitacion": "Básica #301",
+    "Dias": 3,
+    "Fecha_Inicio": "15/06/2025",
+    "Fecha_Salida": "17/06/2025",
+    "acciones": true
   },
   {
-    "id": 2,
-    "nombre": "María",
-    "apellido": "López",
-    "email": "maria.lopez@example.com"
+    "Tipo_Habitacion": "Básica #301",
+    "Dias": 4,
+    "Fecha_Inicio": "20/03/2025",
+    "Fecha_Salida": "24/03/2025",
+    "acciones": false
+  },
+  {
+    "Tipo_Habitacion": "Básica #301",
+    "Dias": 7,
+    "Fecha_Inicio": "01/02/2024",
+    "Fecha_Salida": "07/02/2024",
+    "acciones": false
+  },
+  {
+    "Tipo_Habitacion": "Básica #301",
+    "Dias": 2,
+    "Fecha_Inicio": "04/05/2021",
+    "Fecha_Salida": "06/05/2021",
+    "acciones": false
   }
 ]
